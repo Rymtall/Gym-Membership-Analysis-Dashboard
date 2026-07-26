@@ -1,0 +1,5 @@
+PlanID,MembershipType,DurationMonths,Fee
+Monthly,1 Month,1500,
+Quarterly,3 Months,4000,
+Half-Yearly,6 Months,8000,
+Annual,12 Months,15000,
