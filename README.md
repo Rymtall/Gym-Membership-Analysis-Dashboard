@@ -144,3 +144,4 @@ The dashboard provides an interactive view of gym performance using KPIs and vis
 
 ## 📷 Dashboard Preview
 
+https://github.com/Rymtall/Gym-Membership-Analysis-Dashboard/blob/main/Gym%20membership%20Dashboard.png
